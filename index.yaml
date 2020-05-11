@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  openfaas:
+  - apiVersion: v1
+    created: "2020-05-12T00:34:46.409146+03:00"
+    description: Enable Kubernetes as a backend for OpenFaaS (Functions as a Service)
+    digest: 4bacf353c2451100d8508ba7edf2f5cf68b742b658ad262e466826d9c9935934
+    home: https://www.openfaas.com
+    icon: https://raw.githubusercontent.com/openfaas/media/master/OpenFaaS_logo_stacked_opaque.png
+    keywords:
+    - functions
+    - service
+    maintainers:
+    - email: alex@openfaas.com
+      name: alexellis
+    - email: roesler.lucas@gmail.com
+      name: lucasroesler
+    - email: stefan.prodan@gmail.com
+      name: stefanprodan
+    name: openfaas
+    sources:
+    - https://github.com/mabuaisha/faas
+    - https://github.com/mabuaisha/faas-netes
+    urls:
+    - https://mabuaisha.github.io/faas-chart/openfaas-5.6.4.tgz
+    version: 5.6.4
+generated: "2020-05-12T00:34:46.402624+03:00"
